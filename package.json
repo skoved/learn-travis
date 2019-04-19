@@ -1,0 +1,17 @@
+{
+  "name": "learn-travis",
+  "version": "1.0.0",
+  "description": "test to see if travis works",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "skoved",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^6.1.4"
+  }
+}
