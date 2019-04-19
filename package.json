@@ -4,8 +4,7 @@
   "description": "test to see if travis works",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha"
+    "test": "mocha --exit"
   },
   "author": "skoved",
   "license": "ISC",
